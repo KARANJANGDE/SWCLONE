@@ -1,0 +1,11 @@
+Navbar hamburger icon
+landing page(first 50% top navbar mid section p h1 quotes)(second 50% svg)
+static two page(first 50% p h1 quotes second svg)
+static third page(first 50% svg  second p h1 quotes)
+static fourth page( first 50% p h1 quotes second svg )
+Blog page(three by three grid total 6 should be displayed)
+page(h-screen svg)
+footer(h-50% h1 email submit button 5links last buttons)
+
+
+
